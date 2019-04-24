@@ -1,0 +1,29 @@
+#############################################################
+#                       FILE INFORMATION                    #
+#       ===========================================         #
+#       Creater：yiquriyue<yiquriyue@outlook.com>           #
+#       Create time: 2019-04-10 14:26:00                    #
+#       Location: shenzhen,China                            #
+#                                                           #
+#                           LEGAL                           #
+#       ============================================        #
+#       Copyright (C) yiquriyue. All right reserved         #
+#                                                           #
+#                       FILE DESCRIPTION                    #
+#       ============================================        #
+#       This project is used to crawl the data of           #
+#       Chinese CPA website and fill in the form            #
+#       automatically. This project is for personal         #
+#       use only and does not support commercial use.       #
+#############################################################
+
+#############################################################
+DIRECTORY STRUCTURE
+|
+|----README                                         this file
+|
+|----monitor.py                                crawl function
+|
+|----read.py                                     file operate
+|
+|----return.csv                                 download data
